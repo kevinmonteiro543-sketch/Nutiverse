@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473104772464",
+    "project_id": "nutriverse-3e78f",
+    "storage_bucket": "nutriverse-3e78f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473104772464:android:5e47cbb8a98f2e644f73b5",
+        "android_client_info": {
+          "package_name": "com.monteirogames.nutriverse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyt2eQLbrLdZpMSM7qXf8AnZbKukZNaPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
